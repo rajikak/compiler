@@ -1,1 +1,1 @@
-an example compiler.
+example compiler for https://compilerbook.com/.
